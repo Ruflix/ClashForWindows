@@ -1,4 +1,4 @@
-**The repository has been archived due to: [README.md](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/CFW/README.md)**
+**The repository has been archived due to: [README.md](https://github.com/Ruflix/ClashForWindows/blob/main/README.md)**
 
 
 ***
@@ -13,11 +13,6 @@
 [![photo](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/assets/77391690/cbc8698c-7e3c-4ff2-b2ed-4bccae1e6251?raw=true)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
 > 效果图的版本可能不是当前最新兼容的
 
-**支持的clash版本:**
-
-[0.15.3](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.15.3_CN-V4)
-~
-[当前的最新兼容](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/latest)
 
 **基本特征&介绍:**
 
@@ -106,15 +101,13 @@
 
 #### 赞助商的广告
 
-[推荐使用OK加速器  优惠码:clash](https://zhuri.cc/auth/register?code=6666)
+[推荐使用忍者加速器](https://renzhejiasu.com)
 
-购买小火箭、圈X、Google voice👉[神马杂货铺](https://googlevoice.top/)
-
-快速使用 ChatGPT：[chat1.woaiai.cc](https://chat1.woaiai.cc/)
+购买小火箭、圈X、Google voice👉[苹果小店](https://shop.applejidi.com)
 
 ***
 ### 快速导航
-[前往汉化下载界面](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)
+[前往汉化下载界面](https://github.com/Ruflix/ClashForWindows/releases)
 
 [前往下载机场引流推广版 (去广告和更新检测)](https://github.com/Z-Siqi/CFW-custom-made)
 
