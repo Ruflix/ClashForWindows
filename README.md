@@ -101,8 +101,6 @@
 
 #### 赞助商的广告
 
-[推荐使用忍者加速器](https://renzhejiasu.com)
-
 购买小火箭、圈X、Google voice👉[苹果小店](https://shop.applejidi.com)
 
 ***
