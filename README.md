@@ -109,7 +109,7 @@
 
 [前往下载机场引流推广版 (去广告和更新检测)](https://github.com/Z-Siqi/CFW-custom-made)
 
-[前往原版Clash for Windows下载界面](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[~~前往原版Clash for Windows下载界面（已删库）~~](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 #### 能够解压7z格式的软件
 
