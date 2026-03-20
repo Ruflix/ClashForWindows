@@ -101,7 +101,7 @@
 
 #### 赞助商的广告
 
-购买小火箭、圈X、Google voice👉[苹果小店](https://shop.applejidi.com)
+购买小火箭、圈X、Google voice👉[大熊宝店](https://www.dxbd.net)
 
 ***
 ### 快速导航
